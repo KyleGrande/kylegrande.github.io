@@ -3,18 +3,18 @@ body {
     background-color: rgb(208, 198, 196);
     text-align: center;
     margin: auto;
-
 }
+
 header {
     padding: 5% 0px 1% 0px;
     font-size: larger;
-  }
-a{
+}
+
+a {
     text-decoration: none;
 }
+
 a:hover {
     color: rgb(128, 105, 255);
     text-decoration: underline;
 }
-
-
